@@ -1,4 +1,5 @@
 Reference educational video: https://www.youtube.com/watch?v=FmWjtKVwsCw
 
-This application is made by JavaScript as front-end side.
-As soon as possible I can, I will connect to mongoDB with azure or aws.
+This application is made by JavaScript as front-end side. 
+The purpose of this application is to practice javascript to get strong knowledge of it.
+After I finish practicing a few times, I will move forward to connect to mongoDB with azure or aws.
