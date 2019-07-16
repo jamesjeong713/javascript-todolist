@@ -1,5 +1,3 @@
-Reference educational video: https://www.youtube.com/watch?v=FmWjtKVwsCw
-
 This application's address: https://jamesjeong713.github.io/javascript-todolist/
 
 
